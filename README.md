@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasanth
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python &Full Stack
 - 💞️ I’m looking to collaborate on basic priject
 - 📫 How to reach me sanprasanth94@gmail.com
 
