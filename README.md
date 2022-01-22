@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PythonGenzo
+- 👋 Hi, I’m @Prasanth
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on basic priject
