@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasanth
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python &Full Stack
+- 👀 I’m interested in MERN Full stack Development
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on basic priject
 - 📫 How to reach me sanprasanth94@gmail.com
 
